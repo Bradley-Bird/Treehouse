@@ -28,7 +28,7 @@ export default function Login() {
         // we need to redirect to.
         history.replace(from);
     //
-    // See https://v5.reactrouter.com/web/api/history for the appropriate method to use
+    // See https://v5.reactrouter.com/web/api/history for the appropriate method to use...
   };
 
   return (
